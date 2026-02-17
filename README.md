@@ -12,7 +12,7 @@ This repository is **documentation-only**. It describes architecture and design 
 - Auditable behavior via logs and replay-friendly task history
 
 ## What’s in this repo
-- High-level architecture
+- architecture
 - Persona layer concept
 - Memory model concept
 - Execution model concept
